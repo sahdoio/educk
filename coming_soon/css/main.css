@@ -45,6 +45,12 @@ button:active {
 	background-size: cover;
 }
 
+@media (max-width: 1300px) {
+	.lavel-up-header-bg-img {
+		background-size: auto !important;
+	}
+}
+
 .lavel-up-color-overlay {
 	background: rgba(0, 0, 0, 0.55);
 	padding-top: 70px;
